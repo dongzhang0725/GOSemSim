@@ -1,0 +1,9 @@
+site_name: "GOSemSim"
+site_url: http://guangchuangyu.github.io/GOSemSim
+site_author: Guangchuang Yu
+repo_url: https://github.com/GuangchuangYu/GOSemSim
+pages:
+- Home: index.md
+- Featured Articles: featuredArticles.md
+
+copyright: Copyright &copy; 2016 <a href="http://guangchuangyu.github.io">Guangchuang Yu</a>.
