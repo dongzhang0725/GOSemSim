@@ -26,7 +26,7 @@
 
 + Computational prediction of virus–human protein–protein interactions using embedding kernelized heterogeneous data, **Mol. BioSyst**, Mar. 2016 <http://dx.doi.org/10.1039/C6MB00065G>
 + Investigating the impact human protein–protein interaction networks have on disease-gene analysis **International Journal of Machine Learning and Cybernetics** Feb. 2016 <http://dx.doi.org/10.1007/s13042-016-0503-5>
-+ Computational probing protein–protein interactions targeting small molecules, **Bioinformatics** Jan. 2016 <10.1093/bioinformatics/btv528>
++ Computational probing protein–protein interactions targeting small molecules, **Bioinformatics** Jan. 2016 <http://dx.doi.org/10.1093/bioinformatics/btv528>
 + An integrative *C. elegans* protein–protein interaction network with reliability assessment based on a probabilistic graphical model, **Mol. Biosyst**, Jan. 2016 <http://dx.doi.org/10.1039/C5MB00417A>
 
 
