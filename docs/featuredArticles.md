@@ -6,11 +6,13 @@
 <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
 
 ## Diease or Drug analysis
-
+ 
 + Regulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice, **The Journal of Immunology**, Arp. 2016, <http://dx.doi.org/10.4049/jimmunol.1501834>
 + In Silico Insight into Potential Anti-Alzheimer’s Disease Mechanisms of Icariin, **Int. J. Mol. Sci**, Jan. 2016 <http://dx.doi.org/10.3390/ijms17010113>
+
 ## Gene/Protein functional analysis
 
++ Network-driven plasma proteomics expose molecular changes in the Alzheimer’s brain, **Molecular Neurodegeneration**, Apr. 2016 <http://dx.doi.org/10.1186/s13024-016-0095-2>
 + Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes, **PLOS Computational Biology**, Apr. 2016 <http://dx.doi.org/10.1371/journal.pcbi.1004892>
 + Crosstalk of dynamic functional modules in lung development of rhesus macaques, **Mol. Biosyst.** Apr. 2016 <http://dx.doi.org/10.1039/C5MB00881F>
 + Comparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants, **Genome Biology** Mar. 2016 <http://dx.doi.org/10.1186/s13059-016-0902-7>
