@@ -1,74 +1,79 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nImplemented five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for estimating GO semantic similarities. Support many species, including Anopheles, Arabidopsis, Bovine, Canine, Chicken, Chimp, Coelicolor, E coli strain K12 and Sakai, Fly, Human, Malaria, Mouse, Pig, Rhesus, Rat, Worm, Xenopus, Yeast, and Zebrafish.\n\n\nProject website\n\n\nGOSemSim\n is released within the \nBioconductor\n project and the source code is hosted in \n GitHub\n.\n\n\n\n\nCitation\n\n\nPlease cite the following article when using \nGOSemSim\n:\n\n\nYu G, Li F, Qin Y, Bo X, Wu Y and Wang S. \nGOSemSim: an R package for measuring semantic similarity among GO terms and gene products.\nBioinformatics, 2010, 26(7):976-978. \n\n\n\n\nURL: \nhttp://bioinformatics.oxfordjournals.org/content/26/7/976.full\n\n\nInstallation\n\n\nInstall \nGOSemSim\n is easy, follow the guide in the \nBioconductor page\n:\n\n\n## try http:// if https:// URLs are not supported\nsource(\"https://bioconductor.org/biocLite.R\")\n## biocLite(\"BiocUpgrade\") ## you may need this\nbiocLite(\"GOSemSim\")\n\n\n\n\nDocumentation\n\n\nVignettes\n\n\nhttp://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html\n\n\nBlog posts\n\n\nhttp://guangchuangyu.github.io/tags/gosemsim\n\n\nBugs/Feature requests\n\n\nIf you have any, \nlet me know\n. Thx!\n\n\nComments\n\n\n\n\n\n\n\n(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.\n\n\n\ncomments powered by \nDisqus",
+            "location": "/", 
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nImplemented five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for estimating GO semantic similarities. Support many species, including Anopheles, Arabidopsis, Bovine, Canine, Chicken, Chimp, Coelicolor, E coli strain K12 and Sakai, Fly, Human, Malaria, Mouse, Pig, Rhesus, Rat, Worm, Xenopus, Yeast, and Zebrafish.\n\n\nProject website\n\n\nGOSemSim\n is released within the \nBioconductor\n project and the source code is hosted in \n GitHub\n.\n\n\n\n\nCitation\n\n\nPlease cite the following article when using \nGOSemSim\n:\n\n\nYu G, Li F, Qin Y, Bo X, Wu Y and Wang S. \nGOSemSim: an R package for measuring semantic similarity among GO terms and gene products.\nBioinformatics, 2010, 26(7):976-978. \n\n\n\n\nURL: \nhttp://bioinformatics.oxfordjournals.org/content/26/7/976.full\n\n\nInstallation\n\n\nInstall \nGOSemSim\n is easy, follow the guide in the \nBioconductor page\n:\n\n\n## try http:// if https:// URLs are not supported\nsource(\nhttps://bioconductor.org/biocLite.R\n)\n## biocLite(\nBiocUpgrade\n) ## you may need this\nbiocLite(\nGOSemSim\n)\n\n\n\n\nDocumentation\n\n\nVignettes\n\n\nhttp://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html\n\n\nBlog posts\n\n\nhttp://guangchuangyu.github.io/tags/gosemsim\n\n\nBugs/Feature requests\n\n\nIf you have any, \nlet me know\n. Thx!\n\n\nComments\n\n\n\n\n\n\n\n(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.\n\n\n\ncomments powered by \nDisqus", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#project-website",
-            "text": "GOSemSim  is released within the  Bioconductor  project and the source code is hosted in   GitHub .",
+            "location": "/#project-website", 
+            "text": "GOSemSim  is released within the  Bioconductor  project and the source code is hosted in   GitHub .", 
             "title": "Project website"
-        },
+        }, 
         {
-            "location": "/#citation",
-            "text": "Please cite the following article when using  GOSemSim :  Yu G, Li F, Qin Y, Bo X, Wu Y and Wang S. \nGOSemSim: an R package for measuring semantic similarity among GO terms and gene products.\nBioinformatics, 2010, 26(7):976-978.   URL:  http://bioinformatics.oxfordjournals.org/content/26/7/976.full",
+            "location": "/#citation", 
+            "text": "Please cite the following article when using  GOSemSim :  Yu G, Li F, Qin Y, Bo X, Wu Y and Wang S. \nGOSemSim: an R package for measuring semantic similarity among GO terms and gene products.\nBioinformatics, 2010, 26(7):976-978.   URL:  http://bioinformatics.oxfordjournals.org/content/26/7/976.full", 
             "title": "Citation"
-        },
+        }, 
         {
-            "location": "/#installation",
-            "text": "Install  GOSemSim  is easy, follow the guide in the  Bioconductor page :  ## try http:// if https:// URLs are not supported\nsource(\"https://bioconductor.org/biocLite.R\")\n## biocLite(\"BiocUpgrade\") ## you may need this\nbiocLite(\"GOSemSim\")",
+            "location": "/#installation", 
+            "text": "Install  GOSemSim  is easy, follow the guide in the  Bioconductor page :  ## try http:// if https:// URLs are not supported\nsource( https://bioconductor.org/biocLite.R )\n## biocLite( BiocUpgrade ) ## you may need this\nbiocLite( GOSemSim )", 
             "title": "Installation"
-        },
+        }, 
         {
-            "location": "/#documentation",
-            "text": "",
+            "location": "/#documentation", 
+            "text": "", 
             "title": "Documentation"
-        },
+        }, 
         {
-            "location": "/#vignettes",
-            "text": "http://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html",
+            "location": "/#vignettes", 
+            "text": "http://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html", 
             "title": "Vignettes"
-        },
+        }, 
         {
-            "location": "/#blog-posts",
-            "text": "http://guangchuangyu.github.io/tags/gosemsim",
+            "location": "/#blog-posts", 
+            "text": "http://guangchuangyu.github.io/tags/gosemsim", 
             "title": "Blog posts"
-        },
+        }, 
         {
-            "location": "/#bugsfeature-requests",
-            "text": "If you have any,  let me know . Thx!",
+            "location": "/#bugsfeature-requests", 
+            "text": "If you have any,  let me know . Thx!", 
             "title": "Bugs/Feature requests"
-        },
+        }, 
         {
-            "location": "/#comments",
-            "text": "(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();  Please enable JavaScript to view the  comments powered by Disqus.  comments powered by  Disqus",
+            "location": "/#comments", 
+            "text": "(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();  Please enable JavaScript to view the  comments powered by Disqus.  comments powered by  Disqus", 
             "title": "Comments"
-        },
+        }, 
         {
-            "location": "/featuredArticles/",
-            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nDiease or Drug analysis\n\n\n\n\nRegulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice, \nThe Journal of Immunology\n, Arp. 2016, \nhttp://dx.doi.org/10.4049/jimmunol.1501834\n\n\nIn Silico Insight into Potential Anti-Alzheimer\u2019s Disease Mechanisms of Icariin, \nInt. J. Mol. Sci\n, Jan. 2016 \nhttp://dx.doi.org/10.3390/ijms17010113\n\n\n\n\nGene/Protein functional analysis\n\n\n\n\nNetwork-driven plasma proteomics expose molecular changes in the Alzheimer\u2019s brain, \nMolecular Neurodegeneration\n, Apr. 2016 \nhttp://dx.doi.org/10.1186/s13024-016-0095-2\n\n\nSingle-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes, \nPLOS Computational Biology\n, Apr. 2016 \nhttp://dx.doi.org/10.1371/journal.pcbi.1004892\n\n\nCrosstalk of dynamic functional modules in lung development of rhesus macaques, \nMol. Biosyst.\n Apr. 2016 \nhttp://dx.doi.org/10.1039/C5MB00881F\n\n\nComparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants, \nGenome Biology\n Mar. 2016 \nhttp://dx.doi.org/10.1186/s13059-016-0902-7\n\n\nFunTree: advances in a resource for exploring and contextualising protein function evolution, \nNucl. Acids Res.\n Jan. 2016 \nhttp://dx.doi.org/10.1093/nar/gkv1274\n\n\nMulti-omic measurement of mutually exclusive loss-of-function enriches for candidate synthetic lethal gene pairs, \nBMC Genomics\n, Jan. 2016 \nhttp://dx.doi.org/10.1186/s12864-016-2375-1\n\n\n\n\nExpression data processing\n\n\n\n\nRobust Detection of Outlier Samples and Genes in Expression Datasets, \nJournal of Proteomics & Bioinformatics\n Feb. 2016 \nhttp://dx.doi.org/10.4172/jpb.1000387\n\n\nMissing value imputation for microRNA expression data by using a GO-based similarity measure, \nBMC Bioinformatics\n Jan. 2016 \nhttp://dx.doi.org/10.1186/s12859-015-0853-0\n\n\n\n\nProtein-Protein Interaction\n\n\n\n\nComputational prediction of virus\u2013human protein\u2013protein interactions using embedding kernelized heterogeneous data, \nMol. BioSyst\n, Mar. 2016 \nhttp://dx.doi.org/10.1039/C6MB00065G\n\n\nInvestigating the impact human protein\u2013protein interaction networks have on disease-gene analysis \nInternational Journal of Machine Learning and Cybernetics\n Feb. 2016 \nhttp://dx.doi.org/10.1007/s13042-016-0503-5\n\n\nComputational probing protein\u2013protein interactions targeting small molecules, \nBioinformatics\n Jan. 2016 \nhttp://dx.doi.org/10.1093/bioinformatics/btv528\n\n\nAn integrative \nC. elegans\n protein\u2013protein interaction network with reliability assessment based on a probabilistic graphical model, \nMol. Biosyst\n, Jan. 2016 \nhttp://dx.doi.org/10.1039/C5MB00417A",
+            "location": "/featuredArticles/", 
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nDiease or Drug analysis\n\n\n\n\nRegulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice, \nThe Journal of Immunology\n, Arp. 2016, \nhttp://dx.doi.org/10.4049/jimmunol.1501834\n\n\nIn Silico Insight into Potential Anti-Alzheimer\u2019s Disease Mechanisms of Icariin, \nInt. J. Mol. Sci\n, Jan. 2016 \nhttp://dx.doi.org/10.3390/ijms17010113\n\n\n\n\nGene/Protein functional analysis\n\n\n\n\nNetwork-driven plasma proteomics expose molecular changes in the Alzheimer\u2019s brain, \nMolecular Neurodegeneration\n, Apr. 2016 \nhttp://dx.doi.org/10.1186/s13024-016-0095-2\n\n\nSingle-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes, \nPLOS Computational Biology\n, Apr. 2016 \nhttp://dx.doi.org/10.1371/journal.pcbi.1004892\n\n\nCrosstalk of dynamic functional modules in lung development of rhesus macaques, \nMol. Biosyst.\n Apr. 2016 \nhttp://dx.doi.org/10.1039/C5MB00881F\n\n\nComparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants, \nGenome Biology\n Mar. 2016 \nhttp://dx.doi.org/10.1186/s13059-016-0902-7\n\n\nMulti-omic measurement of mutually exclusive loss-of-function enriches for candidate synthetic lethal gene pairs, \nBMC Genomics\n, Jan. 2016 \nhttp://dx.doi.org/10.1186/s12864-016-2375-1\n\n\n\n\nExpression data processing\n\n\n\n\nRobust Detection of Outlier Samples and Genes in Expression Datasets, \nJournal of Proteomics \n Bioinformatics\n Feb. 2016 \nhttp://dx.doi.org/10.4172/jpb.1000387\n\n\nMissing value imputation for microRNA expression data by using a GO-based similarity measure, \nBMC Bioinformatics\n Jan. 2016 \nhttp://dx.doi.org/10.1186/s12859-015-0853-0\n\n\n\n\nProtein-Protein Interaction\n\n\n\n\nComputational prediction of virus\u2013human protein\u2013protein interactions using embedding kernelized heterogeneous data, \nMol. BioSyst\n, Mar. 2016 \nhttp://dx.doi.org/10.1039/C6MB00065G\n\n\nInvestigating the impact human protein\u2013protein interaction networks have on disease-gene analysis \nInternational Journal of Machine Learning and Cybernetics\n Feb. 2016 \nhttp://dx.doi.org/10.1007/s13042-016-0503-5\n\n\nComputational probing protein\u2013protein interactions targeting small molecules, \nBioinformatics\n Jan. 2016 \nhttp://dx.doi.org/10.1093/bioinformatics/btv528\n\n\nAn integrative \nC. elegans\n protein\u2013protein interaction network with reliability assessment based on a probabilistic graphical model, \nMol. Biosyst\n, Jan. 2016 \nhttp://dx.doi.org/10.1039/C5MB00417A\n\n\n\n\nEvolution\n\n\n\n\nVenus flytrap carnivorous lifestyle builds on herbivore defense strategies \nCold Spring Harbor Laboratory Press\n May 2016 \nhttp://dx.doi.org/10.1101/gr.202200.115\n\n\nFunTree: advances in a resource for exploring and contextualising protein function evolution, \nNucl. Acids Res.\n Jan. 2016 \nhttp://dx.doi.org/10.1093/nar/gkv1274", 
             "title": "Featured Articles"
-        },
+        }, 
         {
-            "location": "/featuredArticles/#diease-or-drug-analysis",
-            "text": "Regulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice,  The Journal of Immunology , Arp. 2016,  http://dx.doi.org/10.4049/jimmunol.1501834  In Silico Insight into Potential Anti-Alzheimer\u2019s Disease Mechanisms of Icariin,  Int. J. Mol. Sci , Jan. 2016  http://dx.doi.org/10.3390/ijms17010113",
+            "location": "/featuredArticles/#diease-or-drug-analysis", 
+            "text": "Regulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice,  The Journal of Immunology , Arp. 2016,  http://dx.doi.org/10.4049/jimmunol.1501834  In Silico Insight into Potential Anti-Alzheimer\u2019s Disease Mechanisms of Icariin,  Int. J. Mol. Sci , Jan. 2016  http://dx.doi.org/10.3390/ijms17010113", 
             "title": "Diease or Drug analysis"
-        },
+        }, 
         {
-            "location": "/featuredArticles/#geneprotein-functional-analysis",
-            "text": "Network-driven plasma proteomics expose molecular changes in the Alzheimer\u2019s brain,  Molecular Neurodegeneration , Apr. 2016  http://dx.doi.org/10.1186/s13024-016-0095-2  Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes,  PLOS Computational Biology , Apr. 2016  http://dx.doi.org/10.1371/journal.pcbi.1004892  Crosstalk of dynamic functional modules in lung development of rhesus macaques,  Mol. Biosyst.  Apr. 2016  http://dx.doi.org/10.1039/C5MB00881F  Comparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants,  Genome Biology  Mar. 2016  http://dx.doi.org/10.1186/s13059-016-0902-7  FunTree: advances in a resource for exploring and contextualising protein function evolution,  Nucl. Acids Res.  Jan. 2016  http://dx.doi.org/10.1093/nar/gkv1274  Multi-omic measurement of mutually exclusive loss-of-function enriches for candidate synthetic lethal gene pairs,  BMC Genomics , Jan. 2016  http://dx.doi.org/10.1186/s12864-016-2375-1",
+            "location": "/featuredArticles/#geneprotein-functional-analysis", 
+            "text": "Network-driven plasma proteomics expose molecular changes in the Alzheimer\u2019s brain,  Molecular Neurodegeneration , Apr. 2016  http://dx.doi.org/10.1186/s13024-016-0095-2  Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes,  PLOS Computational Biology , Apr. 2016  http://dx.doi.org/10.1371/journal.pcbi.1004892  Crosstalk of dynamic functional modules in lung development of rhesus macaques,  Mol. Biosyst.  Apr. 2016  http://dx.doi.org/10.1039/C5MB00881F  Comparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants,  Genome Biology  Mar. 2016  http://dx.doi.org/10.1186/s13059-016-0902-7  Multi-omic measurement of mutually exclusive loss-of-function enriches for candidate synthetic lethal gene pairs,  BMC Genomics , Jan. 2016  http://dx.doi.org/10.1186/s12864-016-2375-1", 
             "title": "Gene/Protein functional analysis"
-        },
+        }, 
         {
-            "location": "/featuredArticles/#expression-data-processing",
-            "text": "Robust Detection of Outlier Samples and Genes in Expression Datasets,  Journal of Proteomics & Bioinformatics  Feb. 2016  http://dx.doi.org/10.4172/jpb.1000387  Missing value imputation for microRNA expression data by using a GO-based similarity measure,  BMC Bioinformatics  Jan. 2016  http://dx.doi.org/10.1186/s12859-015-0853-0",
+            "location": "/featuredArticles/#expression-data-processing", 
+            "text": "Robust Detection of Outlier Samples and Genes in Expression Datasets,  Journal of Proteomics   Bioinformatics  Feb. 2016  http://dx.doi.org/10.4172/jpb.1000387  Missing value imputation for microRNA expression data by using a GO-based similarity measure,  BMC Bioinformatics  Jan. 2016  http://dx.doi.org/10.1186/s12859-015-0853-0", 
             "title": "Expression data processing"
-        },
+        }, 
         {
-            "location": "/featuredArticles/#protein-protein-interaction",
-            "text": "Computational prediction of virus\u2013human protein\u2013protein interactions using embedding kernelized heterogeneous data,  Mol. BioSyst , Mar. 2016  http://dx.doi.org/10.1039/C6MB00065G  Investigating the impact human protein\u2013protein interaction networks have on disease-gene analysis  International Journal of Machine Learning and Cybernetics  Feb. 2016  http://dx.doi.org/10.1007/s13042-016-0503-5  Computational probing protein\u2013protein interactions targeting small molecules,  Bioinformatics  Jan. 2016  http://dx.doi.org/10.1093/bioinformatics/btv528  An integrative  C. elegans  protein\u2013protein interaction network with reliability assessment based on a probabilistic graphical model,  Mol. Biosyst , Jan. 2016  http://dx.doi.org/10.1039/C5MB00417A",
+            "location": "/featuredArticles/#protein-protein-interaction", 
+            "text": "Computational prediction of virus\u2013human protein\u2013protein interactions using embedding kernelized heterogeneous data,  Mol. BioSyst , Mar. 2016  http://dx.doi.org/10.1039/C6MB00065G  Investigating the impact human protein\u2013protein interaction networks have on disease-gene analysis  International Journal of Machine Learning and Cybernetics  Feb. 2016  http://dx.doi.org/10.1007/s13042-016-0503-5  Computational probing protein\u2013protein interactions targeting small molecules,  Bioinformatics  Jan. 2016  http://dx.doi.org/10.1093/bioinformatics/btv528  An integrative  C. elegans  protein\u2013protein interaction network with reliability assessment based on a probabilistic graphical model,  Mol. Biosyst , Jan. 2016  http://dx.doi.org/10.1039/C5MB00417A", 
             "title": "Protein-Protein Interaction"
+        }, 
+        {
+            "location": "/featuredArticles/#evolution", 
+            "text": "Venus flytrap carnivorous lifestyle builds on herbivore defense strategies  Cold Spring Harbor Laboratory Press  May 2016  http://dx.doi.org/10.1101/gr.202200.115  FunTree: advances in a resource for exploring and contextualising protein function evolution,  Nucl. Acids Res.  Jan. 2016  http://dx.doi.org/10.1093/nar/gkv1274", 
+            "title": "Evolution"
         }
     ]
 }
