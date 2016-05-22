@@ -25,6 +25,7 @@
 
 ## Protein-Protein Interaction
 
++ Integration of multiple biological features yields high confidence human protein interactome, **Journal of Theoretical Biology**, May. 2016 <http://dx.doi.org.eproxy1.lib.hku.hk/10.1016/j.jtbi.2016.05.020>
 + Computational prediction of virus–human protein–protein interactions using embedding kernelized heterogeneous data, **Mol. BioSyst**, Mar. 2016 <http://dx.doi.org/10.1039/C6MB00065G>
 + Investigating the impact human protein–protein interaction networks have on disease-gene analysis **International Journal of Machine Learning and Cybernetics** Feb. 2016 <http://dx.doi.org/10.1007/s13042-016-0503-5>
 + Computational probing protein–protein interactions targeting small molecules, **Bioinformatics** Jan. 2016 <http://dx.doi.org/10.1093/bioinformatics/btv528>
