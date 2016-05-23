@@ -5,6 +5,8 @@
 <span class='st_sina_hcount' displayText='Sina'></span>
 <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
 
+Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) if you have published using `GOSemSim` and your publication will be featured here.
+
 ## Diease or Drug analysis
  
 + Regulatory T Cells Orchestrate Similar Immune Evasion of Fetuses and Tumors in Mice, **The Journal of Immunology**, Arp. 2016, <http://dx.doi.org/10.4049/jimmunol.1501834>
