@@ -33,6 +33,10 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
 + Computational probing protein–protein interactions targeting small molecules, **Bioinformatics** Jan. 2016 <http://dx.doi.org/10.1093/bioinformatics/btv528>
 + An integrative *C. elegans* protein–protein interaction network with reliability assessment based on a probabilistic graphical model, **Mol. Biosyst**, Jan. 2016 <http://dx.doi.org/10.1039/C5MB00417A>
 
+## miRNA-mRNA Interaction
+
++ Identifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor, **Journal of Theoretical Biology** May. 2016 <http://dx.doi.org.eproxy2.lib.hku.hk/10.1016/j.jtbi.2016.05.026>
+
 
 ## Evolution
 
