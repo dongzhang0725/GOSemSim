@@ -35,7 +35,7 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
 
 ## miRNA-mRNA Interaction
 
-+ Identifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor, **Journal of Theoretical Biology** May. 2016 <http://dx.doi.org.eproxy2.lib.hku.hk/10.1016/j.jtbi.2016.05.026>
++ Identifying Functional cancer-specific miRNA-mRNA interactions in testicular germ cell tumor, **Journal of Theoretical Biology** May. 2016 <http://dx.doi.org/10.1016/j.jtbi.2016.05.026>
 
 
 ## Evolution
