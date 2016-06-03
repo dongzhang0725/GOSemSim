@@ -14,7 +14,7 @@ Implemented five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang resp
 ## Project website
 
 
-`GOSemSim` is released within the [Bioconductor](http://bioconductor.org/packages/GOSemSim) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/GOSemSim"><i class="fa fa-github fa-lg"></i> GitHub</a>.
+`GOSemSim` is released within the [Bioconductor](https://bioconductor.org/packages/GOSemSim) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/GOSemSim"><i class="fa fa-github fa-lg"></i> GitHub</a>.
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
@@ -28,11 +28,11 @@ GOSemSim: an R package for measuring semantic similarity among GO terms and gene
 Bioinformatics, 2010, 26(7):976-978. 
 ```
 
-URL: [http://bioinformatics.oxfordjournals.org/content/26/7/976.full](http://bioinformatics.oxfordjournals.org/content/26/7/976.full)
+URL: <http://bioinformatics.oxfordjournals.org/content/26/7/976.full>
 
 ## Installation
 
-Install `GOSemSim` is easy, follow the guide in the [Bioconductor page](http://bioconductor.org/packages/GOSemSim/):
+Install `GOSemSim` is easy, follow the guide in the [Bioconductor page](https://bioconductor.org/packages/GOSemSim/):
 
 ```r
 ## try http:// if https:// URLs are not supported
@@ -45,11 +45,11 @@ biocLite("GOSemSim")
 
 ### Vignettes
 
-<http://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html>
+<https://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html>
 
 ### Blog posts
 
-<http://guangchuangyu.github.io/tags/gosemsim>
+<https://guangchuangyu.github.io/tags/gosemsim>
 
 ## Bugs/Feature requests
 
