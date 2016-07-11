@@ -8,7 +8,130 @@
 <script async src="//static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
+<link rel="stylesheet" href="https://guangchuangyu.github.io/css/academicons.min.css">
+
+<br>
 Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) if you have published using `GOSemSim` and your publication will be featured here.
+
+<i class="fa fa-hand-o-right"></i> Find out more on [<i class="ai ai-google-scholar"></i> google scholar](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=9484177541993722322,17633835198940746971,18126401808149291947).
+
+
+<!-- ColumnChart generated in R 3.3.0 by googleVis 0.6.0 package -->
+<!-- Mon Jul 11 12:07:36 2016 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataColumnChartID39b111f0d6e () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "2010",
+6 
+],
+[
+ "2011",
+9 
+],
+[
+ "2012",
+34 
+],
+[
+ "2013",
+40 
+],
+[
+ "2014",
+40 
+],
+[
+ "2015",
+45 
+],
+[
+ "2016",
+29 
+] 
+];
+data.addColumn('string','year');
+data.addColumn('number','cites');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartColumnChartID39b111f0d6e() {
+var data = gvisDataColumnChartID39b111f0d6e();
+var options = {};
+options["allowHtml"] = [true];
+options["title"] = ["GOSemSim citations"];
+options["titleTextStyle"] = {color:'firebrick'};
+options["legend"] = {position: 'none'};
+
+
+    var chart = new google.visualization.ColumnChart(
+    document.getElementById('ColumnChartID39b111f0d6e')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartColumnChartID39b111f0d6e);
+})();
+function displayChartColumnChartID39b111f0d6e() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID39b111f0d6e"></script>
+ 
+<!-- divChart -->
+  
+<div id="ColumnChartID39b111f0d6e" 
+  style="width: 500; height: automatic;">
+</div>
+
 
 ## Diease or Drug analysis
  
