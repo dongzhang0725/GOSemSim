@@ -77,7 +77,7 @@
         }, 
         {
             "location": "/documentation/", 
-            "text": "Vignettes\n\n\nhttps://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html\n\n\n Blog posts\n\n\n News and updates\n\n\n\n\nGOSemSim an R package for measuring semantic similarity among GO terms and gene products\n\n\nproper use of GOSemSim\n\n\nBioC 3.1: NEWS of my BioC packages\n\n\nBioC 3.2: NEWS of my BioC packages\n\n\nBioC 3.3: NEWS of my BioC packages\n\n\n\n\nApplications\n\n\n\n\nusing GOSemSim to rank proteins obtained by co-IP\n\n\n\n\n Find out more on \nhttps://guangchuangyu.github.io/tags/gosemsim\n.", 
+            "text": "Vignettes\n\n\nhttps://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html\n\n\n Blog posts\n\n\n News and updates\n\n\n\n\nGOSemSim an R package for measuring semantic similarity among GO terms and gene products\n\n\nproper use of GOSemSim\n\n\nBioC 3.1: NEWS of my BioC packages\n\n\nBioC 3.2: NEWS of my BioC packages\n\n\nBioC 3.3: NEWS of my BioC packages\n\n\n\n\n Applications\n\n\n\n\nusing GOSemSim to rank proteins obtained by co-IP\n\n\n\n\n Find out more on \nhttps://guangchuangyu.github.io/tags/gosemsim\n.", 
             "title": "Documentation"
         }, 
         {
@@ -98,7 +98,7 @@
         {
             "location": "/documentation/#applications", 
             "text": "using GOSemSim to rank proteins obtained by co-IP    Find out more on  https://guangchuangyu.github.io/tags/gosemsim .", 
-            "title": "Applications"
+            "title": " Applications"
         }, 
         {
             "location": "/featuredArticles/", 

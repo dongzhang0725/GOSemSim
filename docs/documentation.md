@@ -22,7 +22,7 @@
 + [BioC 3.2: NEWS of my BioC packages](https://guangchuangyu.github.io/2015/10/news-of-my-bioc-packages)
 + [BioC 3.3: NEWS of my BioC packages](https://guangchuangyu.github.io/2016/05/news-of-my-bioc-packages)
 
-### Applications
+### <i class="fa fa-angle-double-right"></i> Applications
 
 + [using GOSemSim to rank proteins obtained by co-IP](https://guangchuangyu.github.io/2015/05/using-gosemsim-to-rank-proteins-obtained-by-co-ip)
 
