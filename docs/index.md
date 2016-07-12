@@ -70,7 +70,7 @@ biocLite("GOSemSim")
 
 <i class="fa fa-hand-o-right"></i> Find out details and examples on <i class="fa fa-book"></i> [Documentation](https://guangchuangyu.github.io/GOSemSim/documentation/).
 
-## <i class="fa fa-link"></i> Related Tools
+## <i class="fa fa-wrench"></i> Related Tools
 
 <ul class="fa-ul">
 	<li><i class="fa-li fa fa-angle-double-right"></i><a href="https://guangchuangyu.github.io/clusterProfiler">clusterProfiler</a> for Ontologies/pathways enrichment analyses</li>
