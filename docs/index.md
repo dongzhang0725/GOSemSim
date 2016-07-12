@@ -68,6 +68,8 @@ biocLite("GOSemSim")
 + 20 species that have OrgDb available in Bioconductor
 + Many other species with e GO annotation query online via [AnnotationHub](https://bioconductor.org/packages/AnnotationHub/))
 
+<i class="fa fa-hand-o-right"></i> Find out details and examples on <i class="fa fa-book"></i> [Documentation](https://guangchuangyu.github.io/GOSemSim/documentation/).
+
 ## <i class="fa fa-code-fork"></i> Projects that depend on GOSemSim
 
 #### <i class="fa fa-angle-double-right"></i> CRAN packages
