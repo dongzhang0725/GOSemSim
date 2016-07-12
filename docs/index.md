@@ -72,8 +72,12 @@ biocLite("GOSemSim")
 
 ## <i class="fa fa-link"></i> Related Tools
 
-+ [clusterProfiler](https://guangchuangyu.github.io/clusterProfiler) for Ontologies/pathways enrichment analyses
-+ [DOSE](https://guangchuangyu.github.io/DOSE) for Disease Ontology Semantic and Enrichment analyses
+<ul class="fa-ul">
+	<li><i class="fa-li fa fa-angle-double-right"></i><a href="https://guangchuangyu.github.io/clusterProfiler">clusterProfiler</a> for Ontologies/pathways enrichment analyses</li>
+	<li><i class="fa-li fa fa-angle-double-right"></i><a href="https://guangchuangyu.github.io/DOSE">DOSE</a> for Disease Ontology Semantic and Enrichment analyses</li>
+</ul>
+
+<i class="fa fa-hand-o-right"></i> Find out more on [projects](https://guangchuangyu.github.io/#projects).
 
 ## <i class="fa fa-code-fork"></i> Projects that depend on GOSemSim
 
