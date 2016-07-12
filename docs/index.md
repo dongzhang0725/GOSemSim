@@ -70,6 +70,11 @@ biocLite("GOSemSim")
 
 <i class="fa fa-hand-o-right"></i> Find out details and examples on <i class="fa fa-book"></i> [Documentation](https://guangchuangyu.github.io/GOSemSim/documentation/).
 
+## <i class="fa fa-link"></i> Related Tools
+
++ [clusterProfiler](https://guangchuangyu.github.io/clusterProfiler) for Ontologies/pathways enrichment analyses
++ [DOSE](https://guangchuangyu.github.io/DOSE) for Disease Ontology Semantic and Enrichment analyses
+
 ## <i class="fa fa-code-fork"></i> Projects that depend on GOSemSim
 
 #### <i class="fa fa-angle-double-right"></i> CRAN packages
