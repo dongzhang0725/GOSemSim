@@ -8,29 +8,31 @@
 <script async src="//static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
-
-Implemented five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for estimating GO semantic similarities. Support many species, including Anopheles, Arabidopsis, Bovine, Canine, Chicken, Chimp, Coelicolor, E coli strain K12 and Sakai, Fly, Human, Malaria, Mouse, Pig, Rhesus, Rat, Worm, Xenopus, Yeast, and Zebrafish.
-
-## Project website
+<br>
+The semantic comparisons of Gene Ontology (GO) annotations provide quantitative ways to compute similarities between genes and gene groups, and have became important basis for many bioinformatics analysis approaches. `GOSemSim` is an R package for semantic similarity computation among GO terms, sets of GO terms, gene products and gene clusters. `GOSemSim` implemented five methods proposed by _Resnik_, _Schlicker_, _Jiang_, _Lin_ and _Wang_ respectively.
 
 
 `GOSemSim` is released within the [Bioconductor](https://bioconductor.org/packages/GOSemSim) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/GOSemSim"><i class="fa fa-github fa-lg"></i> GitHub</a>.
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+## <i class="fa fa-user"></i> Author
 
-## Citation
+Guangchuang Yu, School of Public Health, The University of Hong Kong.
+
+## <i class="fa fa-book"></i> Citation
 
 Please cite the following article when using `GOSemSim`:
 
-```
-Yu G, Li F, Qin Y, Bo X, Wu Y and Wang S. 
+__Yu G__<sup>†</sup>, Li F<sup>†</sup>, Qin Y, Bo X<sup>\*</sup>, Wu Y and Wang S<sup>\*</sup>. 
 GOSemSim: an R package for measuring semantic similarity among GO terms and gene products.
-Bioinformatics, 2010, 26(7):976-978. 
-```
+__*Bioinformatics*__. 2010, 26(7):976-978. doi:[10.1093/bioinformatics/btq064](http://dx.doi.org/10.1093/bioinformatics/btq064)
 
-URL: <http://bioinformatics.oxfordjournals.org/content/26/7/976.full>
+## <i class="fa fa-pencil"></i> Featured Articles
 
-## Installation
+<img src="featured_img/2014PNAS.png" width="650">
+
+<i class="fa fa-hand-o-right"></i> Find out more on <i class="fa fa-pencil"></i> [Featured Articles](https://guangchuangyu.github.io/GOSemSim/featuredArticles/).
+
+## <i class="fa fa-download"></i> Installation
 
 Install `GOSemSim` is easy, follow the guide in the [Bioconductor page](https://bioconductor.org/packages/GOSemSim/):
 
@@ -41,21 +43,56 @@ source("https://bioconductor.org/biocLite.R")
 biocLite("GOSemSim")
 ```
 
-## Documentation
+## <i class="fa fa-cogs"></i> Overview
 
-### Vignettes
+#### <i class="fa fa-angle-double-right"></i> Methods
 
-<https://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html>
++ Information content based methods proposed by _Resnik_, _Schlicker_, _Jiang_ and _Lin_
++ Graph structure based method proposed by _Wang_
 
-### Blog posts
+#### <i class="fa fa-angle-double-right"></i> Combine methods for aggregating multiple GO terms
 
-<https://guangchuangyu.github.io/tags/gosemsim>
++ max
++ avg
++ rcmax
++ BMA
 
-## Bugs/Feature requests
+#### <i class="fa fa-angle-double-right"></i> Functions
 
-If you have any, [let me know](https://github.com/GuangchuangYu/GOSemSim/issues). Thx!
++ goSim and mgoSim for measureing semantic similarity among GO terms
++ geneSim and mgeneSim for measureing semantic similarity among genes
++ clusterSim and mclusterSim for measureing semantic similarity among gene clusters
 
-## Comments
+#### <i class="fa fa-angle-double-right"></i> Supported organisms
+
++ 20 species that have OrgDb available in Bioconductor
++ Many other species with e GO annotation query online via [AnnotationHub](https://bioconductor.org/packages/AnnotationHub/))
+
+## <i class="fa fa-code-fork"></i> Projects that depend on GOSemSim
+
+#### <i class="fa fa-angle-double-right"></i> CRAN packages
+
++ [BiSEp](https://cran.r-project.org/package=BiSEp)
++ [ppiPre](https://cran.r-project.org/package=ppiPre)
++ [protr](https://cran.r-project.org/package=protr)
+
+#### <i class="fa fa-angle-double-right"></i> Bioconductor packages
+
++ [DOSE](https://www.bioconductor.org/packages/DOSE/)
++ [Rcpi](https://www.bioconductor.org/packages/Rcpi/)
++ [tRanslatome](https://www.bioconductor.org/packages/tRanslatome/)
+
+
+<i class="fa fa-hand-o-right"></i> Find out more on <i class="fa fa-github-alt"></i> [github](http://scisoft-net-map.isri.cmu.edu/application/GOSemSim/gitprojects).
+
+## <i class="fa fa-comment"></i> Feedback
+<ul class="fa-ul">
+	<li><i class="fa-li fa fa-hand-o-right"></i> Please make sure you [follow the guide](https://guangchuangyu.github.io/2016/07/how-to-bug-author/) before posting any issue/question</li>
+	<li><i class="fa-li fa fa-bug"></i> For bugs or feature requests, please post to <i class="fa fa-github-alt"></i> [github issue](https://github.com/GuangchuangYu/GOSemSim/issues)</li>
+	<li><i class="fa-li fa fa-question"></i>  For user questions, please post to [Bioconductor support site](https://support.bioconductor.org/) and [Biostars](https://www.biostars.org/). We are following every post tagged with **GOSemSim**</li>
+	<li><i class="fa-li fa fa-commenting"></i> Join the group chat on <a href="https://twitter.com/hashtag/GOSemSim"><i class="fa fa-twitter fa-lg"></i></a> and <a href="http://huati.weibo.com/k/GOSemSim"><i class="fa fa-weibo fa-lg"></i></a></li>
+</ul>
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">

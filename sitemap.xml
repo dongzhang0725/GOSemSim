@@ -4,7 +4,15 @@
     
     <url>
      <loc>http://guangchuangyu.github.io/GOSemSim/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://guangchuangyu.github.io/GOSemSim/documentation/</loc>
+     <lastmod>2016-07-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>http://guangchuangyu.github.io/GOSemSim/featuredArticles/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
