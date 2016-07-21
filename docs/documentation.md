@@ -10,7 +10,7 @@
 
 ## <i class="fa fa-book"></i> Vignettes
 
-<https://bioconductor.org/packages/release/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html>
++ <https://bioconductor.org/packages/devel/bioc/vignettes/GOSemSim/inst/doc/GOSemSim.html>
 
 ## <i class="fa fa-wordpress"></i> Blog posts
 

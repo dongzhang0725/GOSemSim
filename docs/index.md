@@ -83,15 +83,15 @@ biocLite("GOSemSim")
 
 #### <i class="fa fa-angle-double-right"></i> CRAN packages
 
-+ [BiSEp](https://cran.r-project.org/package=BiSEp)
-+ [ppiPre](https://cran.r-project.org/package=ppiPre)
-+ [protr](https://cran.r-project.org/package=protr)
++ [BiSEp](https://cran.r-project.org/package=BiSEp): Toolkit to Identify Candidate Synthetic Lethality
++ [ppiPre](https://cran.r-project.org/package=ppiPre): Predict Protein-Protein Interactions Based on Functional and Topological Similarities
++ [protr](https://cran.r-project.org/package=protr): Generating Various Numerical Representation Schemes of Protein Sequence
 
 #### <i class="fa fa-angle-double-right"></i> Bioconductor packages
 
-+ [DOSE](https://www.bioconductor.org/packages/DOSE/)
-+ [Rcpi](https://www.bioconductor.org/packages/Rcpi/)
-+ [tRanslatome](https://www.bioconductor.org/packages/tRanslatome/)
++ [DOSE](https://www.bioconductor.org/packages/DOSE/): Disease Ontology Semantic and Enrichment analysis
++ [Rcpi](https://www.bioconductor.org/packages/Rcpi/): Toolkit for Compound-Protein Interaction in Drug Discovery
++ [tRanslatome](https://www.bioconductor.org/packages/tRanslatome/): Comparison between multiple levels of gene expression
 
 
 <i class="fa fa-hand-o-right"></i> Find out more on <i class="fa fa-github-alt"></i> [github](http://scisoft-net-map.isri.cmu.edu/application/GOSemSim/gitprojects).
