@@ -73,7 +73,7 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
 },
 {
  "year": 2016,
-"cites":             29,
+"cites":             33,
 "pubid": "tuHXwOkdijsC" 
 } 
 ],
@@ -122,6 +122,10 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
 + [A novel link prediction algorithm for reconstructing protein–protein interaction networks by topological similarity](http://bioinformatics.oxfordjournals.org/content/29/3/355.short). **Bioinformatics**. 2013, 29(3):355-364.
 + [Minimum curvilinearity to enhance topological prediction of protein interactions by network embedding](http://bioinformatics.oxfordjournals.org/content/29/13/i199.short). **Bioinformatics**. 2013, 29(13):i199-i209.
 + [IntScore: a web tool for confidence scoring of biological interactions](https://nar.oxfordjournals.org/content/40/W1/W140.short). **Nucl. Acids Res.**, 2012, 40(W1):W140-W146.
+
+## Motif analysis
+
++ [Comparative pan-cancer DNA methylation analysis reveals cancer common and specific patterns](http://dx.doi.org/10.1093/bib/bbw063). **Brief Bioinform**, 2016
 
 
 ## miRNA-mRNA Interaction
