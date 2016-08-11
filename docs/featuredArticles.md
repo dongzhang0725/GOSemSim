@@ -13,8 +13,6 @@
 <br>
 Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) if you have published using `GOSemSim` and your publication will be featured here.
 
-<i class="fa fa-hand-o-right"></i> Find out more on [<i class="ai ai-google-scholar"></i> google scholar](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=9484177541993722322,17633835198940746971,18126401808149291947).
-
 <link rel='stylesheet' href=https://guangchuangyu.github.io/resume/css/morris.css>
 <script src='https://guangchuangyu.github.io/resume/css/jquery.min.js' type='text/javascript'></script>
 <script src='https://guangchuangyu.github.io/resume/css/raphael-min.js' type='text/javascript'></script>
@@ -31,10 +29,12 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
   }  
   </style>
 
-<div id = 'chart37e6f7d51a7' class = 'rChart morris'></div>
+[![citation](https://img.shields.io/badge/cited%20by-213-blue.svg?style=flat)](https://scholar.google.com.hk/scholar?hl=en&as_sdt=0,5&sciodt=0,5&cites=9484177541993722322,17633835198940746971,18126401808149291947&scipsc=)
+
+<div id = 'chart4cf8205d082d' class = 'rChart morris'></div>
 <script type='text/javascript'>
     var chartParams = {
- "element": "chart37e6f7d51a7",
+ "element": "chart4cf8205d082d",
 "width":            800,
 "height":            400,
 "xkey": "year",
@@ -78,13 +78,14 @@ Let [us know](https://github.com/GuangchuangYu/GOSemSim/wiki/feature-articles) i
 "pubid": "tuHXwOkdijsC" 
 } 
 ],
-"id": "chart37e6f7d51a7",
+"id": "chart4cf8205d082d",
 "labels": "cites" 
 },
       chartType = "Bar"
     new Morris[chartType](chartParams)
 </script>
 
+Find out more on [<i class="ai ai-google-scholar"></i> google scholar](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=9484177541993722322,17633835198940746971,18126401808149291947).
 
 ## Diease or Drug analysis
  

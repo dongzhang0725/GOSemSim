@@ -3,6 +3,7 @@
 library("scholar")
 library("rCharts")
 library("methods")
+library("rmarkdown")
 
 featured_article <- function(pub) {
     id <- "DO5oG40AAAAJ"
@@ -27,8 +28,13 @@ featured_article <- function(pub) {
     
     header <- readLines("../private/featuredArticles_header.md")
     citation <- readLines("../private/featuredArticles_citation.md")
+
+    render("../private/citation_badge.rmd", "md_document")
+
+    badge <- readLines("../private/citation_badge.md")
+    unlink("../private/citation_badge.md")
     
-    y <- c(header, x, citation)
+    y <- c(header, badge, "", x, citation)
     
     out <- file("../docs/featuredArticles.md", "w")
     writeLines(y, out)
